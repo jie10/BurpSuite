@@ -62,7 +62,7 @@
 1. 下载：https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.3.1&type=WindowsX64
 2. 放置进安装目录
 
-<p align="center"><img src="/static/启动器.png" alt="Burp启动器"></p>
+<p align="center"><img src="/static/Launch.png" alt="Burp启动器"></p>
 &ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuite.zip">BurpSuite.zip(9KB)</a>
 
 - SHA256: DA6A4A5A480E8FBC7520B306BD738C710F813338CD40394114DCE37298BE2EA5

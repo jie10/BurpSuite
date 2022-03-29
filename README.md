@@ -26,7 +26,7 @@
 
 
 <h1 align="center"></h1>
-<br><p align="center">时隔两年再次建立此项目是因为看到了SCZ师傅的<a href="https://mp.weixin.qq.com/s/4KXxKdnPeWqsEsylObhg8w">公众号文章</a>，想了想还是写一篇更加详细的文档来帮助需要的同学。</p>
+<br><p align="center">时隔两年再次建立此项目是因为看到了SCZ师傅的<a href="https://mp.weixin.qq.com/s/4KXxKdnPeWqsEsylObhg8w">公众号文章</a>，想了想还是写一篇更加详细的文档来帮助需要的同学</p>
 <h1 align="center"></h1>
 
 

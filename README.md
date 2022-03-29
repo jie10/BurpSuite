@@ -41,7 +41,7 @@
 - MD5: DEFAFC938A0344B188D7273D3DD3EB48
 ### Keygen
 
-&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/burp-loader-keygen.jar">burp-loader-keygen.jar(48KB)</a>
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/burp-keygen-scz.jar">burp-keygen-scz.jar(48KB)</a>
 - SHA256: 74893842A782238F52F0F225C06FA744568321911FEA077BC290BD9914B73402
 - MD5: E646B3EEF03EFBA637E6ED794CED4114
 

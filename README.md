@@ -1,4 +1,4 @@
-<p align="center"><img src="https://portswigger.net/burp/communitydownload/images/burp-pro-logo.svg" alt="Burp Suite Professional logo" width="320" height="240"></p>
+<p align="center"><img src="https://portswigger.net/burp/communitydownload/images/burp-pro-logo.svg" alt="Burp Suite Professional logo" width="360" height="260"></p>
 
 <h1 align="center">Welcome to Burp Suite loader👋</h1>
 

@@ -46,9 +46,9 @@
 - MD5: E646B3EEF03EFBA637E6ED794CED4114
 
 ### Windows 启动器源码
-&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoadSources.zip">BurpSuiteLoadSources.zip(16KB)</a>
-- SHA256: 0B9BF13CF6419CDBCE1339B47F94958800B162657E3A36E99813423CE8FEA6D1
-- MD5: D5BC149EAF8A98C97C515B2C0E5D71DA
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoadSources.zip">BurpSuiteLoadSources.zip(14KB)</a>
+- SHA256: F38DF9B30E4A310073A8713372A512A20372F236809B9FDD8B18983FD64E3E1F
+- MD5: 2AA4B21E470206A625669C9241EBE96D
 
 ## 🚀 使用方式
 

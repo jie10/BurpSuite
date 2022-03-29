@@ -18,7 +18,7 @@
 </div>
 <br>
 <div align="center">
-  商业使用请购买正版软件 - https://portswigger.net/burp<br>
+  商业使用请购买正版软件 - https://portswigger.net/buy/pro<br>
   ！<a href="https://github.com/x-Ai/BurpSuiteLoader">旧项目</a>已被PortSwigger投诉导致DMCA ！*未混淆，请自行围观jar包*
 </div>
 

@@ -36,17 +36,17 @@
 
 ### Loader
 
-&ensp;&ensp;&ensp;&ensp;<a href="https://github.com/x-Ai/BurpSuiteLoader">BurpSuiteLoader.jar(167KB)</a>
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoader.jar">BurpSuiteLoader.jar(167KB)</a>
 - SHA256: 1E54FBBAF3423C8B15B2507CB1E8C18092B0F728AA705EF8D235AC4300CD3E29
 - MD5: DEFAFC938A0344B188D7273D3DD3EB48
 ### Keygen
 
-&ensp;&ensp;&ensp;&ensp;<a href="https://github.com/x-Ai/BurpSuiteLoader">burp-loader-keygen.jar(48KB)</a>
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/burp-loader-keygen.jar">burp-loader-keygen.jar(48KB)</a>
 - SHA256: 74893842A782238F52F0F225C06FA744568321911FEA077BC290BD9914B73402
 - MD5: E646B3EEF03EFBA637E6ED794CED4114
 
 ### Windows启动器源码
-&ensp;&ensp;&ensp;&ensp;<a href="https://github.com/x-Ai/BurpSuiteLoader">BurpSuiteLoadSources.zip(16KB)</a>
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoadSources.zip">BurpSuiteLoadSources.zip(16KB)</a>
 - SHA256: 0B9BF13CF6419CDBCE1339B47F94958800B162657E3A36E99813423CE8FEA6D1
 - MD5: D5BC149EAF8A98C97C515B2C0E5D71DA
 
@@ -63,10 +63,10 @@
 2. 放置进安装目录
 
 <p align="center"><img src="/static/启动器.png" alt="Burp启动器"></p>
-&ensp;&ensp;&ensp;&ensp;<a href="https://github.com/x-Ai/BurpSuiteLoader">BurpSuite.zip(62KB)</a>
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuite.zip">BurpSuite.zip(9KB)</a>
 
-- SHA256: 3731FBE05B0540F79544F2D36C38018E23676B4ECA3038BD8C87429991EE8191
-- MD5: AB25662B064AA3141412756D417E3F65
+- SHA256: DA6A4A5A480E8FBC7520B306BD738C710F813338CD40394114DCE37298BE2EA5
+- MD5: 3837BE938FF57DEF1ACE15FC05FCBFD3
 
 &ensp;&ensp;3.使用编译好的启动器
 

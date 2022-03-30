@@ -68,7 +68,7 @@
 - SHA256: DA6A4A5A480E8FBC7520B306BD738C710F813338CD40394114DCE37298BE2EA5
 - MD5: 3837BE938FF57DEF1ACE15FC05FCBFD3
 
-&ensp;&ensp;3.使用编译好的启动器
+&ensp;&ensp;3. 使用编译好的启动器
 
 ### macOS
 1. 下载MacOS (Intel)或MacOS (ARM/M1)
@@ -77,18 +77,18 @@
 
 <p align="center"><img src="/static/macOSLoader路径.png" alt="macOSLoader路径"></p>
 
-&ensp;&ensp;3.修改如下路径文件内容
+&ensp;&ensp;3. 修改如下路径文件内容
 
 > /Applications/Burp Suite Professional.app/Contents/Info.plist
 <p align="center"><img src="/static/InfoPlist路径.png" alt="Info.plist路径"></p>
 
-&ensp;&ensp;4.修改Info.plist文件，78行后插入如下语句
+&ensp;&ensp;4. 修改Info.plist文件，78行后插入如下语句
 
 ```
 <string>-noverify</string>
 <string>-javaagent:$APP_PACKAGE/Contents/Resources/app/BurpSuiteLoader.jar</string>
 ```
-&ensp;&ensp;5.使用启动台中的BurpSuite快捷方式
+&ensp;&ensp;5. 使用启动台中的BurpSuite快捷方式
 ## 💻展示
 
 <p align="center"><img src="/static/Main.png" alt="BurpSuitePro"></p>

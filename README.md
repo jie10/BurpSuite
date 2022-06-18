@@ -82,9 +82,11 @@
 > /Applications/Burp Suite Professional.app/Contents/Info.plist
 <p align="center"><img src="/static/InfoPlist路径.png" alt="Info.plist路径"></p>
 
-&ensp;&ensp;4. 修改Info.plist文件，78行后插入如下语句
+&ensp;&ensp;4. 修改Info.plist文件，`<string>-Dexe4j.moduleName=$APP_PACKAGE</string>` 后插入如下语句
 
 ```
+......
+<string>-Dexe4j.moduleName=$APP_PACKAGE</string>
 <string>-noverify</string>
 <string>-javaagent:$APP_PACKAGE/Contents/Resources/app/BurpSuiteLoader.jar</string>
 ```

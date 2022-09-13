@@ -18,7 +18,7 @@
 </div>
 <br>
 <div align="center">
-  ⚡️Burp Suite Professional 2022.9 Loader已经失效，请等待...⚡️<br><br>
+  ⚡️Burp Suite Professional 2022.9 Loader已由<a href="https://github.com/Hywell">Hywell</a>更新，祝玩的愉快...⚡️<br><br>
   商业使用请购买正版软件 - https://portswigger.net/buy/pro<br>
   ！<a href="https://github.com/x-Ai/BurpSuiteLoader">旧项目</a>已被PortSwigger投诉导致DMCA ！*未混淆，请自行围观jar包*
 </div>
@@ -28,6 +28,7 @@
 
 <h1 align="center"></h1>
 <br><p align="center">时隔两年再次建立此项目是因为看到了SCZ师傅的<a href="https://mp.weixin.qq.com/s/4KXxKdnPeWqsEsylObhg8w">公众号文章</a>，想了想还是写一篇更加详细的文档来帮助需要的同学</p>
+<br><p align="center">偷懒没有从新跟流程，直接使用了SCZ师傅的修改正则范围<a href="https://mp.weixin.qq.com/s/y4NOtfKx90zCJsedBlD8-g">(文章地址)</a>，再次感谢前辈🤝。</p>
 <h1 align="center"></h1>
 
 

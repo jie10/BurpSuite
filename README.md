@@ -28,7 +28,7 @@
 
 <h1 align="center"></h1>
 <br><p align="center">时隔两年再次建立此项目是因为看到了SCZ师傅的<a href="https://mp.weixin.qq.com/s/4KXxKdnPeWqsEsylObhg8w">公众号文章</a>，想了想还是写一篇更加详细的文档来帮助需要的同学</p>
-<br><p align="center">偷懒没有从新跟流程，直接使用了SCZ师傅的修改正则范围<a href="https://mp.weixin.qq.com/s/y4NOtfKx90zCJsedBlD8-g">(文章地址)</a>，再次感谢前辈🤝。</p>
+<br><p align="center">2022.09.13：偷懒没有从新跟流程，直接使用了SCZ师傅的修改正则范围<a href="https://mp.weixin.qq.com/s/y4NOtfKx90zCJsedBlD8-g">(文章地址)</a>，再次感谢前辈🤝。</p>
 <h1 align="center"></h1>
 
 

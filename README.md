@@ -38,9 +38,9 @@
 
 ### Loader
 
-&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoader.jar">BurpSuiteLoader.jar(167KB)</a>
-- SHA256: 1E54FBBAF3423C8B15B2507CB1E8C18092B0F728AA705EF8D235AC4300CD3E29
-- MD5: DEFAFC938A0344B188D7273D3DD3EB48
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoader.jar">BurpSuiteLoader.jar(166KB)</a>
+- SHA256: B4DFB539F8A37E0D08F47ED5222D6067C9234A4D558A0E37EF07D3ECBB0B9EC9
+- MD5: 2E5AF5B059E848FFCB64EDD18CB33B0C
 ### Keygen
 
 &ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/burp-keygen-scz.jar">burp-keygen-scz.jar(48KB)</a>

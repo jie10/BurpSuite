@@ -18,6 +18,7 @@
 </div>
 <br>
 <div align="center">
+  😈插播一个避坑指南：杭州<亚信安全>天坑，各位注意😈<br><br>
   ⚡️Burp Suite Professional 2022.9 Loader已由<a href="https://github.com/Hywell">Hywell</a>更新，祝玩的愉快...⚡️<br><br>
   商业使用请购买正版软件 - https://portswigger.net/buy/pro<br>
   ！<a href="https://github.com/x-Ai/BurpSuiteLoader">旧项目</a>已被PortSwigger投诉导致DMCA ！*未混淆，请自行围观jar包*

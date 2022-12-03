@@ -43,9 +43,9 @@
 - MD5: 114EE957AEEF01E63B65BC7F9A40DCE2
 
 ### Windows 启动器源码
-&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoadSources.zip">BurpSuiteLoadSources.zip(19.6KB)</a>
-- SHA256: 2B4D244078100417A33EDBD09758A9B37A11B4C67376F150EFA4DE6007A2D716
-- MD5: 9D3A198E538AB6FAED9163FAD4F7459C
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoadSources.zip">BurpSuiteLoadSources.zip(19.3KB)</a>
+- SHA256: BDF5FAC98B8709532E721A75A6EFD491BFC54E09739436119BDBFCBCA12A82B5
+- MD5: 91231D19E6EB35CCA959252EF01ECEA9
 
 ## 🚀 使用方式
 
@@ -54,16 +54,16 @@
 </div>
 
 ### 命令行
-> java --illegal-access=permit -noverify -Dsun.java2d.d3d=false -Dsun.java2d.noddraw=true --add-opens=java.desktop/javax.swing=ALL-UNNAMED --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED --add-opens=java.base/jdk.internal.org.objectweb.asm.Opcodes=ALL-UNNAMED -javaagent:BurpSuiteLoader.jar  -jar burpsuite_pro.jar
+> java -noverify -Dsun.java2d.d3d=false -Dsun.java2d.noddraw=true --add-opens=java.base/jdk.internal.org.objectweb.asm=ALL-UNNAMED --add-opens=java.base/jdk.internal.org.objectweb.asm.tree=ALL-UNNAMED -javaagent:BurpSuiteLoader.jar  -jar burpsuite_pro.jar
 ### Windows
 1. 下载：https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.3.1&type=WindowsX64
 2. 放置进安装目录
 
 <p align="center"><img src="/static/Launch.png" alt="Burp启动器"></p>
-&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuite.zip">BurpSuite.zip(9.2KB)</a>
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuite.zip">BurpSuite.zip(9.15KB)</a>
 
-- SHA256: C9C9C904910F9D27A3B89AAA7C26B1D74531248CC2AC95691BCAAFCD39C74643
-- MD5: 8CA7ABE2097F212B62AA1E8C6F108264
+- SHA256: 897AD7E16EC063EEAFAB9AEF4913851474B70594C0252354B2E69A09CA74C809
+- MD5: 9C02C757FBE0163B54A7633D0BB91226
 
 &ensp;&ensp;3. 使用编译好的启动器
 

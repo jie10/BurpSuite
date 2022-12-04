@@ -38,9 +38,9 @@
 
 ### Loader
 
-&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoader.jar">BurpSuiteLoader.jar(4.58KB)</a>
-- SHA256: AA6D33FECFE054674AD7FCEA6685AAECA86807AA4D203250B443D9B2C7109AFA
-- MD5: 114EE957AEEF01E63B65BC7F9A40DCE2
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoader.jar">BurpSuiteLoader.jar(2.8KB)</a>
+- SHA256: 5436CD334A68ED3B721DCDC6B950BC1FECC3DC60DA41DC5E22215A31CED16377
+- MD5: AD4154B47C1288EF9FBD1FD239D712CC
 
 ### Windows 启动器源码
 &ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoadSources.zip">BurpSuiteLoadSources.zip(19.3KB)</a>

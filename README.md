@@ -68,7 +68,7 @@
 &ensp;&ensp;3. 使用编译好的启动器
 
 ### macOS
-1. 下载MacOS (Intel)或MacOS (ARM/M1)
+1. 下载macOS (Intel)或macOS (ARM/M1)
 2. 放置Loader至如下路径
 > /Applications/Burp Suite Professional.app/Contents/java/app
 

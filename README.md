@@ -18,7 +18,7 @@
 </div>
 <br>
 <div align="center">
-  ⚡️Burp Suite Professional 2022.11.* Loader已更新，祝玩的愉快...⚡️<br><br>
+  ⚡️Burp Suite Professional 2023.*.* Loader已更新，祝玩的愉快...⚡️<br><br>
   商业使用请购买正版软件 - https://portswigger.net/buy/pro<br>
   ！<a href="https://github.com/x-Ai/BurpSuiteLoader">旧项目</a>已被PortSwigger投诉导致DMCA ！*未混淆，请自行围观jar包*
 </div>
@@ -37,9 +37,9 @@
 
 ### Loader
 
-&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoader.jar">BurpSuiteLoader.jar(2.8KB)</a>
-- SHA256: 5436CD334A68ED3B721DCDC6B950BC1FECC3DC60DA41DC5E22215A31CED16377
-- MD5: AD4154B47C1288EF9FBD1FD239D712CC
+&ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoader.jar">BurpSuiteLoader.jar(5.93KB)</a>
+- SHA256: 23499F88ED11FA69E6A9BF5B17594B326EF71C631D28DA804F02C3EF08C68150
+- MD5: 694738870DB8D69A6F1BEB6D05CD0999
 
 ### Windows 启动器源码
 &ensp;&ensp;&ensp;&ensp;<a href="https://raw.githubusercontent.com/x-Ai/BurpSuite/main/BurpSuiteLoadSources.zip">BurpSuiteLoadSources.zip(19.3KB)</a>
